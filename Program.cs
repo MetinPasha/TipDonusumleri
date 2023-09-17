@@ -59,5 +59,6 @@ class Program
 			string g = "222";
 			decimal f = Convert.ToDecimal(g);
 			Console.WriteLine(f);
+			
 		}
 }
