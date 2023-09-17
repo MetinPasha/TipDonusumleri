@@ -55,5 +55,9 @@ class Program
 			double1 = Double.Parse(metin2);
 			Console.WriteLine("rakami :" + rakam1);
 			Console.WriteLine("doublel :" + double1);
+
+			string g = "222";
+			decimal f = Convert.ToDecimal(g);
+			Console.WriteLine(f);
 		}
 }
