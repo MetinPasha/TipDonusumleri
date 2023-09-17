@@ -49,7 +49,7 @@ class Program
 		{
 			string metin1 = "10";
 			string metin2 = "10.25";
-			int rakam1;
+			int rakam1; 
 			double double1;
 			rakam1 = Int32.Parse(metin1);
 			double1 = Double.Parse(metin2);
